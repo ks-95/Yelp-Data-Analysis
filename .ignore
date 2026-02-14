@@ -1,0 +1,14 @@
+# Ignore the massive Yelp dataset
+*.json
+*.csv
+*.zip
+data/
+
+# Ignore Python environment files
+__pycache__/
+venv/
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
