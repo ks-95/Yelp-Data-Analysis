@@ -2,7 +2,7 @@
 **Architecting Cloud-Based ETL Pipelines for Market Insights**
 
 ## 📌 Project Overview
-Analyzed a **7GB Yelp dataset** (8 million records) to extract business growth patterns. This project demonstrates my ability to handle large-scale data architecture using cloud tools.
+Analyzed a **5GB Yelp dataset** (7 million records) to extract business growth patterns. This project demonstrates my ability to handle large-scale data architecture using cloud tools.
 
 ## 🛠 Tech Stack
 - **Languages:** Python (Pandas, NumPy), SQL
