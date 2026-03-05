@@ -1,6 +1,6 @@
 import json
 
-input_file = "yelp_academic_dataset_review.json"  # Your 5GB JSON file
+input_file = "yelp_academic_dataset_review.json"  # JSON file
 output_prefix = "split_file_"  # Prefix for output files
 num_files = 10  # Number of files to split into
 
